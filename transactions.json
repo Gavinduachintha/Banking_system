@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "account number": 1273,
+            "account name": "gavindu achintha",
+            "transaction type": "deposit",
+            "current balance": 5500.0
+        },
+        {
+            "account number": 1273,
+            "account name": "gavindu achintha",
+            "transaction type": "Withdrawal",
+            "current balance": 5500.0
+        },
+        {
+            "account number": 1273,
+            "account name": "gavindu achintha",
+            "transaction type": "withdrawal",
+            "current balance": 5500.0
+        },
+        {
+            "account number": 1273,
+            "account name": "gavindu achintha",
+            "transaction type": "withdrawal",
+            "current balance": 6000.0
+        }
+    ]
+}
