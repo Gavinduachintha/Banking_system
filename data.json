@@ -1,19 +1,5 @@
 {
     "account": [
-        {
-            "account name": "gavindu achintha",
-            "account number": 1273,
-            "balance": 6000.0
-        },
-        {
-            "account name": "gavindu",
-            "account number": 8701,
-            "balance": 1000.0
-        },
-        {
-            "account name": "gavindu",
-            "account number": 2459,
-            "balance": 1000.0
-        }
+       
     ]
 }
